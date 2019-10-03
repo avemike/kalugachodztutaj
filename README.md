@@ -1,4 +1,4 @@
-# kalugachodztutaj
+# kaluganieidztam
 
 # git clone link
 # git checkout -b branch 
