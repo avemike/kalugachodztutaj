@@ -2,4 +2,4 @@
 
 ## czesc wszystkim
 
-#twoj stary
+## tutaj se cos zmienie
