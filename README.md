@@ -7,3 +7,4 @@
 # git commit -m 'koment'
 # git push origin branch
 # git merge master
+# asdasdasd 
